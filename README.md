@@ -1,2 +1,2 @@
 # Project_DA
-Projeto do jogo pong de Desenvolvimento de Aplicativo
+Projeto do jogo Pong de Desenvolvimento de aplicativo.
